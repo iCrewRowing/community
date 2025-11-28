@@ -1,7 +1,10 @@
 # iCrew Community
-Welcome to this public repository for the iCrew community
+Welcome to the official public community page for iCrew!
 
-This repository is the home for several related initiatives that involve the iCrew community. Feel free to explore and leave a comment or introduction where you can!
+This community repository doesn't contain code, but serves as a place for community information and issue-tracking to assist with the development of the iCrew Rowing team management platform.
+
+Below you will find information about using our public issue tracker to report or diagnose issues, as well as information on how to join the testing program for pre-release versions of the iCrew mobile apps for iOS and Android.
+
 
 ## Public Issue Tracker
 This can be found at the "issues" tab above and lists current known issues with iCrew, especially the mobile apps.
